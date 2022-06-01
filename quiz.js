@@ -37,3 +37,4 @@
 // home.html. Página de bienvenida + gráfica de últimos resultados
 // question.html SPA. Página para renderizar las 10 distintas preguntas
 // results.html Página para mostrar resultado del quiz
+
