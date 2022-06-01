@@ -1,0 +1,13 @@
+* {
+    background-color: lightcyan;
+    border-radius: 0.5em;
+    border-width: 0.2em;
+    margin: 0.25em;
+    padding: 0.15em;
+}
+.wrapper {
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+}
